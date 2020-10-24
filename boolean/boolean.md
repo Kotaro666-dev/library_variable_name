@@ -1,18 +1,23 @@
 # List of Boolean Variable Name
 
-- Prexix
+- Prefix
     - is
+    - was
     - has
     - can
     - should
+    - did
 
-- isEnabled
-- isActive
-- hasBillingAddress
-- isPaidFor
-- isAnyUserActive
-- isEachUserLoggedIn
-- isPerson
-- hasAge
-- canDance
--
+<br>
+
+- Example
+  - isEnabled
+  - isActive
+  - hasBillingAddress
+  - isPaidFor
+  - isAnyUserActive
+  - isEachUserLoggedIn
+  - isPerson
+  - hasAgeMarkdown All in One
+  - canDance
+  - isIDValid
